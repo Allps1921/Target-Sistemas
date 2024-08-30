@@ -6,6 +6,7 @@ A linguagem utilizada foi JavaScript, utilizando HTML para entrada de dados atra
 
 
 Respostas para desafios 03, 04 e 05:
+
 03 - Ao final o valor da variável soma será 77, seguindo a estrutura a seguir (javaScript):
 let indice = 12 
 let soma = 0
