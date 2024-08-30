@@ -7,7 +7,7 @@ function contarLetras (texto, letra) {
 
     //  Loop para verificação de caracteres do texto
     for (let caractere = 0; caractere < texto.length; caractere++) { 
-        // se a quantidade o caractere verificado foi igual a "letra", adiciona mais um a quantidade.
+        // se a quantidade do caractere verificado foi igual a "letra", adiciona mais um a quantidade.
         if (texto[caractere] === letra) { 
             quantidade++
         }
